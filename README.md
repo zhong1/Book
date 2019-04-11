@@ -5,7 +5,7 @@ BOOK
 --
 
 >`Mysql`  
->><a href='https://pan.baidu.com/s/1Af0_qu0dvLUFNI301Y-DOA'>高性能mysql第三版(提取码:cqew)</a>  
+>><a href='http://note.youdao.com/noteshare?id=557e79059835e058480b5f9aed204875&sub=5D3FB88A66F54C21859DED1CABD795BD'>高性能mysql第三版</a>  
 
 
 >`操作系统`  
